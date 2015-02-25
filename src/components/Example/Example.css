@@ -1,0 +1,12 @@
+/* Stiziles */
+
+:root {
+  --mainColor: #333;
+  --textColor: #fff;
+}
+.Example {
+  background: var(--mainColor);
+  color: var(--textColor);
+  margin: 0;
+  padding: 0;
+}
